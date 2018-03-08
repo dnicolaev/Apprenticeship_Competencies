@@ -126,13 +126,8 @@
       	Consider generic functions and classes
 
 - [ ] c.) Reliability - Exception handling and cleanup (dispose) resources.
-
 - [ ] d.) Extensibility - Easy to add enhancements with minimal changes to existing code. One component should be easily replaceable by a better component.
-
-- [ ] e.) Security - Authentication, authorization, input data validation against security threats such as SQL injections and Cross Site Scripting (XSS), encrypting the sensitive data (passwords, credit card information etc.) - *Summerize (This can be very high level)*
-
-
-
+- [ ] e.) Security - Authentication, authorization, input data validation against security threats such as SQL injections and Cross Site Scripting (XSS), encrypting the sensitive data (passwords, credit card information etc.) 
 - [ ] f.) Performance 
 
       Use a data type that best suits the needs such as StringBuilder, generic collection classes - *Example*
@@ -142,55 +137,22 @@
       Caching and session/application data
 
 - [ ] g.) Scalability - Consider if it supports a large user base/data? Can this be deployed into web farms?
-
-
-
 - [ ] h.) Usability - Put yourself in the shoes of a end-user and ascertain, if the user interface/API is easy to understand and use. If you are not convinced with the user interface design, then start discussing your ideas with the business analyst
 
-
 ##### Object-Oriented Analysis and Design (OOAD) Principles - *Summerize and show example*
-
 - [ ] Single Responsibility Principle (SRS): Do not place more than one responsibility into a single class of function, refactor into separate classes and functions
-
-
 - [ ] Open Closed Principle: While adding new functionality, existing code should not be modified. New functionality should be written in new classes and functions
-
-
 - [ ] Liskov substitutability principle: The child class should not change the behavior (meaning) of the parent class. The child classcan be used as a substitute for a base class.
-      - Completed Interface Polygons class
-
-
 - [ ] Interface segregation: Do not create lengthy interfaces, instead split them into smaller interfaces based on the functionality. The interface should not contain any dependencies (paramaters), which are not require for the expected functionality
-      - Demonstrated in MVCMovie project: EXAMPLE Repo
-
-
 - [ ] Dependency Injection: Do not hardcode the dependencies, instead inject them
-      - *Exposure to these concepts in MVVM example and summary*
 
 ### 6. GIT
-
 - [ ] Solid knowledge of how source control works why it's important using either CLI or GUI tools
-
-
 - [ ] Know the basic commands: clone, push, fetch, pull, commit
-
-
 - [ ] Understand what remotes are
-
-
 - [ ] Understand how to hide, add, remove, and stash files
-
-
 - [ ] Understand how to branch and merge
-
-
 - [ ] Understand how to resolve merge conflicts
-
-
 - [ ] Can reliably commit based on project needs, with communication to the rest of the team
-
-
 - [ ] Uses relevant and important information in commit notes
-
-
 - [ ] Understands differences between HTTPS SSH validation
