@@ -107,10 +107,7 @@
 - [ ] Use framework features, wherever possible instead of writing custom code
 
 ##### Non Functional Requirements
-
 - [ ] a.) Maintainability (Supportability) - The application should require the least amount of effort to support in the near future. It should be easy to identify, fix, and detect.
-
-      EXAMPLE
 
       	Readability: Code should be self-explanatory. Get a feel of story reading. whlile going through code. Use appropriate name for variables, functions and classes. If you are taking more time to understand  the code, then either code needs refactoring or at least comments have to be written to make it clear.
 
@@ -120,10 +117,7 @@
 
       	Configurability: Keep the configurable values in place (XML file, database table) so that no code changes are required, if the data is changed frequently.
 
-
 - [ ] b.) Reusability - *Summerize*
-
-      EXAMPLE
 
       	DRY (Do not Repeat Yourself) principle: The same code should not be repeated more than twice
 
@@ -131,14 +125,9 @@
 
       	Consider generic functions and classes
 
-
 - [ ] c.) Reliability - Exception handling and cleanup (dispose) resources.
 
-
-
 - [ ] d.) Extensibility - Easy to add enhancements with minimal changes to existing code. One component should be easily replaceable by a better component.
-
-
 
 - [ ] e.) Security - Authentication, authorization, input data validation against security threats such as SQL injections and Cross Site Scripting (XSS), encrypting the sensitive data (passwords, credit card information etc.) - *Summerize (This can be very high level)*
 
