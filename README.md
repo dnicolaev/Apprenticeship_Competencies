@@ -42,142 +42,78 @@
 - [ ] Able to add localized scripts
 
 ### 3. DATABASE DEVELOPMENT - *Summerize and example*
-
 - [ ] Understands the difference between a relational database and document based database
 
 ##### MongoDB - *Summerize and example*
-
 - Knowledge of basic installation of MongoDB and C Driver, JSON, schema design, querying, insertion of data, indexing & working with C# driver
 - Able to build a MongoDB-based app
 - Can Write repository methods that perform basic CRUD operations
 - Able to interact with MongoDB documents, & database collections using either RoboMongo or MongoVUE
 
 **SQL**
-
 - [ ] Can create tables, columns & stored procedures in a timely manner
       - *Demonstrated proficiency creating tables, adding columns here: Demonstrated proficiency here:  example*
 - [ ] Can take business logic and turn it into a database design
-
-
 - [ ] Knowledge of how to make a primary key or foreign key & how all the relationships work
-
-
 - [ ] Can create reliable, tested queries that efficiently return data
-
-
 - [ ] Comfortable with CLI and/or GUI tools
-
-
 - [ ] Can write repository methods that perform basic CRUD operations - *Example repo needed*
 
 ### 4. BACKEND DEVELOPMENT
-
 ##### C# ####
-
 - [ ] Solid understanding of object-oriented programming in C#
-
-
 - [ ] Knowledge of Visual Studio, can identify Solution Explorer, the debugging menu, the build, run, and clean functions & unit testing
-
-
 - [ ] Understanding all common modifiers (static, abstract, etc) & can build and implement classes correctly
       - *Demonstrated in MVCMovie project:* - *Summerize and show example*
-
-
 - [ ] Understanding namespaces & how to import dependencies
-
-
 - [ ] Knowledge on how to use model binding
       - *Demonstrated in MVCMovie project:* - *Summerize and repo*
-
-
 - [ ] Knowledge of serialization and deserialization with JSON
       - *Demonstrated through development of RESTful API*
-
-
 - [ ] Understanding the difference between pass by reference and pass by value
 
 ##### Ruby on Rails - *Summerize and elaborate similar to above c# only one backend needs to be met*
-
 - Understand how an application accesses stored data, and how to reduce load by steamlining data requests
 - Strong knowledge of gems, both to locate and install simple add-ons to their application, and create their own custom gems
 - Knowledge of unit testing and Spec to produce clean, tested code
 
 ##### PHP - *Summerize and elaborate similar to above c# only one backend needs to be met*
-
 - Solid understanding how to use forms
 - Understaning of how to assign variables into HTML elements
 - Before writing a function or class, be able to utilize existing functions or classes
 
 ##### APIs - *Summerize and provide example repo*
-
 - [ ] Create modern, REST API's from existing information assets
-
-
 - [ ] Integrates and orchestrates enterprise services across silos
-
-
 - [ ] Secure and authorize information assets exposed via APIs
-
-
 - [ ] Understanding C.R.U.D
 
 ### 5. CODING STANDARDS
-
 ##### Code Formatting
-
 - [ ] While going through code, check the code formatting to improve readability and ensure there are no blockers
 
 ##### Architecture - *Summerize with example codebase (doesnt need to be yours but be able to explain)*
-
 - [ ] Separation of Concerns followed
-
-
 - [ ] Split into respective files (HTML, JavaScript and CSS)
-
-
 - [ ] Split into multiple layers and tiers as per requirements (Presentation, Business, and Data Layers)
-
-
 - [ ] Code is in sync with existing code patterns/technologies
-
-
 - [ ] Design patterns: Use appropriate design pattern (if if helps), after completely understanding the problem and context
 
 ##### Coding Best Practices
-
 - [ ] No hard coding, use constants/configuration values
-
-
 - [ ] Group similar values under an enumeration (enum)
-
-
 - [ ] Comments - Do not write comments for what you are doing, instead write comments on why you are doing. Specify about any hacks workaround and temporary fixes. Additionally mention pending tasks in your to-do comments, which can be tracked easily
-
-
 - [ ] Avoid multiple if/else blocks
-
-
 - [ ] Use framework features, wherever possible instead of writing custom code
 
 ##### Non Functional Requirements
-
 - [ ] a.) Maintainability (Supportability) - The application should require the least amount of effort to support in the near future. It should be easy to identify, fix, and detect.
-
-      EXAMPLE
-
       	Readability: Code should be self-explanatory. Get a feel of story reading. whlile going through code. Use appropriate name for variables, functions and classes. If you are taking more time to understand  the code, then either code needs refactoring or at least comments have to be written to make it clear.
-
       	Testability: The code should be easy to test. Refactor into separate function (if required). Use interfaces while talking to other layers, as interfaces can be mocked easily. Try to avoid static functions, singleton classes as these are not easily testable by mocks.
-
       	Debuggability: Provide support to log the flow of control, paramater data and exception details to find the root cause easily. if you are using Log4Net like component then add support for database logging also as querying the log table is easy.
-
       	Configurability: Keep the configurable values in place (XML file, database table) so that no code changes are required, if the data is changed frequently.
 
-
 - [ ] b.) Reusability
-
-      EXAMPLE
 
       	DRY (Do not Repeat Yourself) principle: The same code should not be repeated more than twice
 
