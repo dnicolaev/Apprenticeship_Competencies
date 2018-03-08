@@ -2,118 +2,43 @@
 ### 1. FRONT END DEVELOPMENT HTML & CSS
 
 *Demonstrated proficiency here: https://github.com/TechtonicGroup/TG-Wordpress/pull/33 
-
 - [x] Solid Knowledge of common tag types and how to implement them 
-
 - [x] Understands how the browser handles conflicting styles
-
 - [x] Understands how the DOM is laid out and is structured
-
 - [x] Understands the difference between content & styling
-
 - [x] Understands that different browsers render and interpret things slightly differently and the need to test on commonly used platforms - - *Summerize and example*
 
 ##### Bootstrap
 *Demonstrated proficiency here: https://codepen.io/dnicolaev/full/bvbRjB
-
 - [x] Knowledge of Bootstrap properties and design principles
-
-
 - [x] Understands grid concept & how to manipulate it
-
-
 - [x] Can install either by CDN or local file
 
-
 ### 2. MIDDLEWARE DEVELOPMENT
-
-- [ ] ##### JavaScript
-
+##### JavaScript
       *Demonstrated proficiency here: (Paste example here repo or codepen)
-
-
-- [ ] Solid understanding of HTML & CSS - (Paste Example)
-
-
-- [ ] Understanding of browser runtime & where to inject scripts
-
-
+- [x] Solid understanding of HTML & CSS
+- [x] Understanding of browser runtime & where to inject scripts
 - [ ] Understanding of dynamic typing and how it makes using the language quick and easy
-
-
 - [ ] Understanding of Document Object Model
-
-
 - [ ] Knowledge of JSON and working with JSON objects - *Summerize and example repo or codepen*
-
-
 - [ ] Knowledge on how to traverse the DOM for element handles - *Summerize and codepen of DOM traversal*
-
-
-- [ ] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements - *Summerize and codepen see below for example*
-
-      Function constructor:
-
-      ```
-      var Obj = function(name) {
-        this.name = name
-      }
-      var c = new Obj("hello");
-      ```
-
-      Function constructor + prototype:
-
-      ```
-      function myObj(){};
-      myObj.prototype.name = "hello";
-      var k = new myObj();
-      ```
-
-      Object literal:
-
-      ```
-      var contactDetails = {name: "Name", phone number: "111-222-3333", email: "test@techtonicgroup.com"}
-      ```
-
-      Object.create method:
-
-      ```
-      var a = Object.create(null);
-      ```
-
-      
+- [ ] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements
 
 ##### AJAX
-
 - *Summerize and repo to example*
-
-
 - [ ] Understanding of asynchronous concepts and implications such as callbacks
-
-
 - [ ] Ability to implement AJAX calls in a project - *Summerize and example*
-
-
 - [ ] Understanding the difference between HTTP methods (get, post, load, etc) and their uses
-
-
 - [ ] Understanding of error handling and promises - *Summerize and codepen example*
 
 ##### HTTP Methods
-
 - [ ] Understands difference between HTTP Methods POST, GET, and PUT
-
-
 - [ ] Understands difference between AJAX and HTTP Methods -- *Summerize* Example ( **AJAX, or Asynchronous JavaScript and XML, is a jQuery wrapper that implements the  DOM's built in XMLHttpRequest Object, which enables asynchronous interaction with the server (ie the page can be updated or data sent to the server without reloading).  HTTP methods indicate the action to be performed on the data in the server, whether it be get, put, post, delete, patch, etc.* *  )
 
 ##### jQuery
-
 - [ ] Understands where to inject script files and how to make it function - *Summerize and example*
-
-
 - [ ] Understanding of basic operations & functions
-
-
 - [ ] Able to add localized scripts
 
 ### 3. DATABASE DEVELOPMENT - *Summerize and example*
