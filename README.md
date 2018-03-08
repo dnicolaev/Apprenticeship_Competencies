@@ -107,13 +107,23 @@
 - [ ] Use framework features, wherever possible instead of writing custom code
 
 ##### Non Functional Requirements
+
 - [ ] a.) Maintainability (Supportability) - The application should require the least amount of effort to support in the near future. It should be easy to identify, fix, and detect.
+
+      EXAMPLE
+
       	Readability: Code should be self-explanatory. Get a feel of story reading. whlile going through code. Use appropriate name for variables, functions and classes. If you are taking more time to understand  the code, then either code needs refactoring or at least comments have to be written to make it clear.
+
       	Testability: The code should be easy to test. Refactor into separate function (if required). Use interfaces while talking to other layers, as interfaces can be mocked easily. Try to avoid static functions, singleton classes as these are not easily testable by mocks.
+
       	Debuggability: Provide support to log the flow of control, paramater data and exception details to find the root cause easily. if you are using Log4Net like component then add support for database logging also as querying the log table is easy.
+
       	Configurability: Keep the configurable values in place (XML file, database table) so that no code changes are required, if the data is changed frequently.
 
-- [ ] b.) Reusability
+
+- [ ] b.) Reusability - *Summerize*
+
+      EXAMPLE
 
       	DRY (Do not Repeat Yourself) principle: The same code should not be repeated more than twice
 
