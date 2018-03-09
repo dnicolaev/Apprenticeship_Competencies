@@ -16,27 +16,33 @@
 
 ### 2. MIDDLEWARE DEVELOPMENT
 ##### JavaScript
-      *Demonstrated proficiency here: (Paste example here repo or codepen)
+      *Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
 - [x] Solid understanding of HTML & CSS
 - [x] Understanding of browser runtime & where to inject scripts
-- [ ] Understanding of dynamic typing and how it makes using the language quick and easy
-- [ ] Understanding of Document Object Model
-- [ ] Knowledge of JSON and working with JSON objects - *Summerize and example repo or codepen*
-- [ ] Knowledge on how to traverse the DOM for element handles - *Summerize and codepen of DOM traversal*
-- [ ] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements
+- [x] Understanding of dynamic typing and how it makes using the language quick and easy
+- [x] Understanding of Document Object Model
+- [x] Knowledge of JSON and working with JSON objects - *Summerize and example repo or codepen*
+- [x] Knowledge on how to traverse the DOM for element handles - *Summerize and codepen of DOM traversal*
+- [x] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements
 
 ##### AJAX
-- *Summerize and repo to example*
-- [ ] Understanding of asynchronous concepts and implications such as callbacks
-- [ ] Ability to implement AJAX calls in a project - *Summerize and example*
-- [ ] Understanding the difference between HTTP methods (get, post, load, etc) and their uses
-- [ ] Understanding of error handling and promises - *Summerize and codepen example*
+      *Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
+- [x] Understanding of asynchronous concepts and implications such as callbacks
+- [x] Ability to implement AJAX calls in a project - *Summerize and example*
+- [x] Understanding the difference between HTTP methods (get, post, load, etc) and their uses
+- [x] Understanding of error handling and promises - *Summerize and codepen example*
 
 ##### HTTP Methods
-- [ ] Understands difference between HTTP Methods POST, GET, and PUT
-- [ ] Understands difference between AJAX and HTTP Methods -- *Summerize* Example ( **AJAX, or Asynchronous JavaScript and XML, is a jQuery wrapper that implements the  DOM's built in XMLHttpRequest Object, which enables asynchronous interaction with the server (ie the page can be updated or data sent to the server without reloading).  HTTP methods indicate the action to be performed on the data in the server, whether it be get, put, post, delete, patch, etc.* *  )
+      *Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
+- [x] Understands difference between HTTP Methods POST, GET, and PUT
+- [x] Understands difference between AJAX and HTTP Methods 
 
 ##### jQuery
+      *Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
 - [ ] Understands where to inject script files and how to make it function - *Summerize and example*
 - [ ] Understanding of basic operations & functions
 - [ ] Able to add localized scripts
