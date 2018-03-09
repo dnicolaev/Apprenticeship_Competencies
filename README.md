@@ -16,7 +16,6 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/TG-Wordpress/pu
 ### 2. MIDDLEWARE DEVELOPMENT
 ##### JavaScript
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
-https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
 - [x] Solid understanding of HTML & CSS
 - [x] Understanding of browser runtime & where to inject scripts
 - [x] Understanding of dynamic typing and how it makes using the language quick and easy
@@ -27,7 +26,6 @@ https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branc
 
 ##### AJAX
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
-https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
 - [x] Understanding of asynchronous concepts and implications such as callbacks
 - [x] Ability to implement AJAX calls in a project - *Summerize and example*
 - [x] Understanding the difference between HTTP methods (get, post, load, etc) and their uses
@@ -35,7 +33,6 @@ https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branc
 
 ##### HTTP Methods
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
-https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
 - [x] Understands difference between HTTP Methods POST, GET, and PUT
 - [x] Understands difference between AJAX and HTTP Methods 
 
@@ -45,76 +42,76 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Ken
 - [x] Understanding of basic operations & functions
 - [x] Able to add localized scripts
 
-### 3. DATABASE DEVELOPMENT - *Summerize and example*
+### 3. DATABASE DEVELOPMENT 
 - [x] Understands the difference between a relational database and document based database
 
-##### MongoDB - *Summerize and example*
+##### MongoDB 
 - Knowledge of basic installation of MongoDB and C Driver, JSON, schema design, querying, insertion of data, indexing & working with C# driver
 - Able to build a MongoDB-based app
 - Can Write repository methods that perform basic CRUD operations
 - Able to interact with MongoDB documents, & database collections using either RoboMongo or MongoVUE
 
 **SQL**
-Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/580
-https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/547
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/567
 - [x] Can create tables, columns & stored procedures in a timely manner
-      - *Demonstrated proficiency creating tables, adding columns here: Demonstrated proficiency here:  example*
 - [x] Can take business logic and turn it into a database design
 - [x] Knowledge of how to make a primary key or foreign key & how all the relationships work
 - [x] Can create reliable, tested queries that efficiently return data
 - [x] Comfortable with CLI and/or GUI tools
-- [x] Can write repository methods that perform basic CRUD operations - *Example repo needed*
+- [x] Can write repository methods that perform basic CRUD operations https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/547
 
 ### 4. BACKEND DEVELOPMENT
 ##### C# ####
-Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/582
-- [ ] Solid understanding of object-oriented programming in C#
-- [ ] Knowledge of Visual Studio, can identify Solution Explorer, the debugging menu, the build, run, and clean functions & unit testing
-- [ ] Understanding all common modifiers (static, abstract, etc) & can build and implement classes correctly
-      - *Demonstrated in MVCMovie project:* - *Summerize and show example*
-- [ ] Understanding namespaces & how to import dependencies
-- [ ] Knowledge on how to use model binding
-      - *Demonstrated in MVCMovie project:* - *Summerize and repo*
-- [ ] Knowledge of serialization and deserialization with JSON
-      - *Demonstrated through development of RESTful API*
-- [ ] Understanding the difference between pass by reference and pass by value
+Demonstrated proficiency here: worked with HVA which is one big .Net/C# project  https://github.com/TechtonicGroup/HomeVestors_Kentico/tree/devbranches/Dev_Branch_Sprint72
+- [x] Solid understanding of object-oriented programming in C#
+- [x] Knowledge of Visual Studio, can identify Solution Explorer, the debugging menu, the build, run, and clean functions & unit testing
+- [x] Understanding all common modifiers (static, abstract, etc) & can build and implement classes correctly
+- [x] Understanding namespaces & how to import dependencies
+- [x] Knowledge on how to use model binding
+- [x] Knowledge of serialization and deserialization with JSON
+- [x] Understanding the difference between pass by reference and pass by value - https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/582
 
-##### Ruby on Rails - *Summerize and elaborate similar to above c# only one backend needs to be met*
+##### Ruby on Rails 
 - Understand how an application accesses stored data, and how to reduce load by steamlining data requests
 - Strong knowledge of gems, both to locate and install simple add-ons to their application, and create their own custom gems
 - Knowledge of unit testing and Spec to produce clean, tested code
 
-##### PHP - *Summerize and elaborate similar to above c# only one backend needs to be met*
+##### PHP 
 - Solid understanding how to use forms
 - Understaning of how to assign variables into HTML elements
 - Before writing a function or class, be able to utilize existing functions or classes
 
-##### APIs - *Summerize and provide example repo*
-- [ ] Create modern, REST API's from existing information assets
-- [ ] Integrates and orchestrates enterprise services across silos
-- [ ] Secure and authorize information assets exposed via APIs
-- [ ] Understanding C.R.U.D
+##### APIs
+Deomonstrated proficiency here: worked with HVA which is one big restful API https://github.com/TechtonicGroup/HomeVestors_Kentico/tree/devbranches/Dev_Branch_Sprint72
+- [x] Create modern, REST API's from existing information assets
+- [x] Integrates and orchestrates enterprise services across silos
+- [x] Secure and authorize information assets exposed via APIs
+- [x] Understanding C.R.U.D
 
 ### 5. CODING STANDARDS
 ##### Code Formatting
-- [ ] While going through code, check the code formatting to improve readability and ensure there are no blockers
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/607
+- [x] While going through code, check the code formatting to improve readability and ensure there are no blockers
 
 ##### Architecture - *Summerize with example codebase (doesnt need to be yours but be able to explain)*
-- [ ] Separation of Concerns followed
-- [ ] Split into respective files (HTML, JavaScript and CSS)
-- [ ] Split into multiple layers and tiers as per requirements (Presentation, Business, and Data Layers)
-- [ ] Code is in sync with existing code patterns/technologies
-- [ ] Design patterns: Use appropriate design pattern (if if helps), after completely understanding the problem and context
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/tree/devbranches/Dev_Branch_Sprint73
+- [x] Separation of Concerns followed
+- [x] Split into respective files (HTML, JavaScript and CSS)
+- [x] Split into multiple layers and tiers as per requirements (Presentation, Business, and Data Layers)
+- [x] Code is in sync with existing code patterns/technologies
+- [x] Design patterns: Use appropriate design pattern (if if helps), after completely understanding the problem and context
 
 ##### Coding Best Practices
-- [ ] No hard coding, use constants/configuration values
-- [ ] Group similar values under an enumeration (enum)
-- [ ] Comments - Do not write comments for what you are doing, instead write comments on why you are doing. Specify about any hacks workaround and temporary fixes. Additionally mention pending tasks in your to-do comments, which can be tracked easily
-- [ ] Avoid multiple if/else blocks
-- [ ] Use framework features, wherever possible instead of writing custom code
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/572
+- [x] No hard coding, use constants/configuration values
+- [x] Group similar values under an enumeration (enum)
+- [x] Comments - Do not write comments for what you are doing, instead write comments on why you are doing. Specify about any hacks workaround and temporary fixes. Additionally mention pending tasks in your to-do comments, which can be tracked easily
+- [x] Avoid multiple if/else blocks
+- [x] Use framework features, wherever possible instead of writing custom code
 
 ##### Non Functional Requirements
-- [ ] a.) Maintainability (Supportability) - The application should require the least amount of effort to support in the near future. It should be easy to identify, fix, and detect.
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+- [x] a.) Maintainability (Supportability) - The application should require the least amount of effort to support in the near future. It should be easy to identify, fix, and detect.
 
       	Readability: Code should be self-explanatory. Get a feel of story reading. whlile going through code. Use appropriate name for variables, functions and classes. If you are taking more time to understand  the code, then either code needs refactoring or at least comments have to be written to make it clear.
 
@@ -124,7 +121,7 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Ken
 
       	Configurability: Keep the configurable values in place (XML file, database table) so that no code changes are required, if the data is changed frequently.
 
-- [ ] b.) Reusability - *Summerize*
+- [x] b.) Reusability
 
       	DRY (Do not Repeat Yourself) principle: The same code should not be repeated more than twice
 
@@ -132,19 +129,19 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Ken
 
       	Consider generic functions and classes
 
-- [ ] c.) Reliability - Exception handling and cleanup (dispose) resources.
-- [ ] d.) Extensibility - Easy to add enhancements with minimal changes to existing code. One component should be easily replaceable by a better component.
-- [ ] e.) Security - Authentication, authorization, input data validation against security threats such as SQL injections and Cross Site Scripting (XSS), encrypting the sensitive data (passwords, credit card information etc.) 
-- [ ] f.) Performance 
+- [x] c.) Reliability - Exception handling and cleanup (dispose) resources.
+- [x] d.) Extensibility - Easy to add enhancements with minimal changes to existing code. One component should be easily replaceable by a better component.
+- [x] e.) Security - Authentication, authorization, input data validation against security threats such as SQL injections and Cross Site Scripting (XSS), encrypting the sensitive data (passwords, credit card information etc.) 
+- [x] f.) Performance 
 
-      Use a data type that best suits the needs such as StringBuilder, generic collection classes - *Example*
+      Use a data type that best suits the needs such as StringBuilder, generic collection classes 
 
-      Lazy loading asynchronous and parallel processing - *Example*
+      Lazy loading asynchronous and parallel processing 
 
       Caching and session/application data
 
-- [ ] g.) Scalability - Consider if it supports a large user base/data? Can this be deployed into web farms?
-- [ ] h.) Usability - Put yourself in the shoes of a end-user and ascertain, if the user interface/API is easy to understand and use. If you are not convinced with the user interface design, then start discussing your ideas with the business analyst
+- [x] g.) Scalability - Consider if it supports a large user base/data? Can this be deployed into web farms?
+- [x] h.) Usability - Put yourself in the shoes of a end-user and ascertain, if the user interface/API is easy to understand and use. If you are not convinced with the user interface design, then start discussing your ideas with the business analyst
 
 ##### Object-Oriented Analysis and Design (OOAD) Principles
 Learned through: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
