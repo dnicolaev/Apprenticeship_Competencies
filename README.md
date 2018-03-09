@@ -154,6 +154,7 @@ Learned through: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-
 
 ### 6. GIT
 Demonstrated proficiency here: https://github.com/dnicolaev
+https://guides.github.com/features/mastering-markdown/
 - [x] Solid knowledge of how source control works why it's important using either CLI or GUI tools
 - [x] Know the basic commands: clone, push, fetch, pull, commit
 - [x] Understand what remotes are
