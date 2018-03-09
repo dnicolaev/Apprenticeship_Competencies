@@ -1,7 +1,6 @@
 # Apprenticeship_Competencies
 ### 1. FRONT END DEVELOPMENT HTML & CSS
-
-*Demonstrated proficiency here: https://github.com/TechtonicGroup/TG-Wordpress/pull/33 
+Demonstrated proficiency here: https://github.com/TechtonicGroup/TG-Wordpress/pull/33 
 - [x] Solid Knowledge of common tag types and how to implement them 
 - [x] Understands how the browser handles conflicting styles
 - [x] Understands how the DOM is laid out and is structured
@@ -16,7 +15,7 @@
 
 ### 2. MIDDLEWARE DEVELOPMENT
 ##### JavaScript
-      *Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
 https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
 - [x] Solid understanding of HTML & CSS
 - [x] Understanding of browser runtime & where to inject scripts
@@ -27,7 +26,7 @@ https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branc
 - [x] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements
 
 ##### AJAX
-      *Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
 https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
 - [x] Understanding of asynchronous concepts and implications such as callbacks
 - [x] Ability to implement AJAX calls in a project - *Summerize and example*
@@ -35,20 +34,19 @@ https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branc
 - [x] Understanding of error handling and promises - *Summerize and codepen example*
 
 ##### HTTP Methods
-      *Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
 https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
 - [x] Understands difference between HTTP Methods POST, GET, and PUT
 - [x] Understands difference between AJAX and HTTP Methods 
 
 ##### jQuery
-      *Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
-https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branch_Sprint73/CMS/Views/Homevestors/Resources/Landing.cshtml
-- [ ] Understands where to inject script files and how to make it function - *Summerize and example*
-- [ ] Understanding of basic operations & functions
-- [ ] Able to add localized scripts
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/561
+- [x] Understands where to inject script files and how to make it function - *Summerize and example*
+- [x] Understanding of basic operations & functions
+- [x] Able to add localized scripts
 
 ### 3. DATABASE DEVELOPMENT - *Summerize and example*
-- [ ] Understands the difference between a relational database and document based database
+- [x] Understands the difference between a relational database and document based database
 
 ##### MongoDB - *Summerize and example*
 - Knowledge of basic installation of MongoDB and C Driver, JSON, schema design, querying, insertion of data, indexing & working with C# driver
@@ -57,16 +55,19 @@ https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branc
 - Able to interact with MongoDB documents, & database collections using either RoboMongo or MongoVUE
 
 **SQL**
-- [ ] Can create tables, columns & stored procedures in a timely manner
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/580
+https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/547
+- [x] Can create tables, columns & stored procedures in a timely manner
       - *Demonstrated proficiency creating tables, adding columns here: Demonstrated proficiency here:  example*
-- [ ] Can take business logic and turn it into a database design
-- [ ] Knowledge of how to make a primary key or foreign key & how all the relationships work
-- [ ] Can create reliable, tested queries that efficiently return data
-- [ ] Comfortable with CLI and/or GUI tools
-- [ ] Can write repository methods that perform basic CRUD operations - *Example repo needed*
+- [x] Can take business logic and turn it into a database design
+- [x] Knowledge of how to make a primary key or foreign key & how all the relationships work
+- [x] Can create reliable, tested queries that efficiently return data
+- [x] Comfortable with CLI and/or GUI tools
+- [x] Can write repository methods that perform basic CRUD operations - *Example repo needed*
 
 ### 4. BACKEND DEVELOPMENT
 ##### C# ####
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/582
 - [ ] Solid understanding of object-oriented programming in C#
 - [ ] Knowledge of Visual Studio, can identify Solution Explorer, the debugging menu, the build, run, and clean functions & unit testing
 - [ ] Understanding all common modifiers (static, abstract, etc) & can build and implement classes correctly
@@ -145,20 +146,22 @@ https://github.com/TechtonicGroup/HomeVestors_Kentico/blob/devbranches/Dev_Branc
 - [ ] g.) Scalability - Consider if it supports a large user base/data? Can this be deployed into web farms?
 - [ ] h.) Usability - Put yourself in the shoes of a end-user and ascertain, if the user interface/API is easy to understand and use. If you are not convinced with the user interface design, then start discussing your ideas with the business analyst
 
-##### Object-Oriented Analysis and Design (OOAD) Principles - *Summerize and show example*
-- [ ] Single Responsibility Principle (SRS): Do not place more than one responsibility into a single class of function, refactor into separate classes and functions
-- [ ] Open Closed Principle: While adding new functionality, existing code should not be modified. New functionality should be written in new classes and functions
-- [ ] Liskov substitutability principle: The child class should not change the behavior (meaning) of the parent class. The child classcan be used as a substitute for a base class.
-- [ ] Interface segregation: Do not create lengthy interfaces, instead split them into smaller interfaces based on the functionality. The interface should not contain any dependencies (paramaters), which are not require for the expected functionality
-- [ ] Dependency Injection: Do not hardcode the dependencies, instead inject them
+##### Object-Oriented Analysis and Design (OOAD) Principles
+Learned through: https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+- [x] Single Responsibility Principle (SRS): Do not place more than one responsibility into a single class of function, refactor into separate classes and functions
+- [x] Open Closed Principle: While adding new functionality, existing code should not be modified. New functionality should be written in new classes and functions
+- [x] Liskov substitutability principle: The child class should not change the behavior (meaning) of the parent class. The child classcan be used as a substitute for a base class.
+- [x] Interface segregation: Do not create lengthy interfaces, instead split them into smaller interfaces based on the functionality. The interface should not contain any dependencies (paramaters), which are not require for the expected functionality
+- [x] Dependency Injection: Do not hardcode the dependencies, instead inject them
 
 ### 6. GIT
-- [ ] Solid knowledge of how source control works why it's important using either CLI or GUI tools
-- [ ] Know the basic commands: clone, push, fetch, pull, commit
-- [ ] Understand what remotes are
-- [ ] Understand how to hide, add, remove, and stash files
-- [ ] Understand how to branch and merge
-- [ ] Understand how to resolve merge conflicts
-- [ ] Can reliably commit based on project needs, with communication to the rest of the team
-- [ ] Uses relevant and important information in commit notes
-- [ ] Understands differences between HTTPS SSH validation
+Demonstrated proficiency here: https://github.com/dnicolaev
+- [x] Solid knowledge of how source control works why it's important using either CLI or GUI tools
+- [x] Know the basic commands: clone, push, fetch, pull, commit
+- [x] Understand what remotes are
+- [x] Understand how to hide, add, remove, and stash files
+- [x] Understand how to branch and merge
+- [x] Understand how to resolve merge conflicts
+- [x] Can reliably commit based on project needs, with communication to the rest of the team
+- [x] Uses relevant and important information in commit notes
+- [x] Understands differences between HTTPS SSH validation
