@@ -43,6 +43,8 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Ken
 - [x] Able to add localized scripts
 
 ### 3. DATABASE DEVELOPMENT 
+Learned through: https://developer.couchbase.com/documentation/server/3.x/developer/dev-guide-3.0/compare-docs-vs-relational.html
+https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
 - [x] Understands the difference between a relational database and document based database
 
 ##### MongoDB 
