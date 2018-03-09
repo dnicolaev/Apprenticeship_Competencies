@@ -5,7 +5,7 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/TG-Wordpress/pu
 - [x] Understands how the browser handles conflicting styles
 - [x] Understands how the DOM is laid out and is structured
 - [x] Understands the difference between content & styling
-- [x] Understands that different browsers render and interpret things slightly differently and the need to test on commonly used platforms - - *Summerize and example*
+- [x] Understands that different browsers render and interpret things slightly differently and the need to test on commonly used platforms
 
 ##### Bootstrap
 *Demonstrated proficiency here: https://codepen.io/dnicolaev/full/bvbRjB
@@ -20,16 +20,16 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Ken
 - [x] Understanding of browser runtime & where to inject scripts
 - [x] Understanding of dynamic typing and how it makes using the language quick and easy
 - [x] Understanding of Document Object Model
-- [x] Knowledge of JSON and working with JSON objects - *Summerize and example repo or codepen*
-- [x] Knowledge on how to traverse the DOM for element handles - *Summerize and codepen of DOM traversal*
+- [x] Knowledge of JSON and working with JSON objects 
+- [x] Knowledge on how to traverse the DOM for element handles 
 - [x] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements
 
 ##### AJAX
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
 - [x] Understanding of asynchronous concepts and implications such as callbacks
-- [x] Ability to implement AJAX calls in a project - *Summerize and example*
+- [x] Ability to implement AJAX calls in a project 
 - [x] Understanding the difference between HTTP methods (get, post, load, etc) and their uses
-- [x] Understanding of error handling and promises - *Summerize and codepen example*
+- [x] Understanding of error handling and promises 
 
 ##### HTTP Methods
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
@@ -38,7 +38,7 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Ken
 
 ##### jQuery
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/561
-- [x] Understands where to inject script files and how to make it function - *Summerize and example*
+- [x] Understands where to inject script files and how to make it function 
 - [x] Understanding of basic operations & functions
 - [x] Able to add localized scripts
 
@@ -95,7 +95,7 @@ Deomonstrated proficiency here: worked with HVA which is one big restful API htt
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/607
 - [x] While going through code, check the code formatting to improve readability and ensure there are no blockers
 
-##### Architecture - *Summerize with example codebase (doesnt need to be yours but be able to explain)*
+##### Architecture 
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/tree/devbranches/Dev_Branch_Sprint73
 - [x] Separation of Concerns followed
 - [x] Split into respective files (HTML, JavaScript and CSS)
