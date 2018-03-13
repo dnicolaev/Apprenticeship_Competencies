@@ -27,6 +27,7 @@ https://codepen.io/dnicolaev/pen/eMmvXb
 - [x] Know how to structure native JavaScript classes (OOP, Pub/Sub) using prototype or object literal statements
 
 ##### AJAX
+Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/tree/devbranches/Dev_Branch_Sprint72
 - [x] Understanding of asynchronous concepts and implications such as callbacks
 - [x] Ability to implement AJAX calls in a project 
 - [x] Understanding the difference between HTTP methods (get, post, load, etc) and their uses
