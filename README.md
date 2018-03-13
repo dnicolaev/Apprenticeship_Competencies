@@ -1,6 +1,7 @@
 # Apprenticeship_Competencies
 ### 1. FRONT END DEVELOPMENT HTML & CSS
-Demonstrated proficiency here: https://github.com/TechtonicGroup/TG-Wordpress/pull/33 
+Demonstrated proficiency here: https://github.com/TechtonicGroup/TG-Wordpress/pull/33
+https://codepen.io/dnicolaev/pen/eMmvXb
 - [x] Solid Knowledge of common tag types and how to implement them 
 - [x] Understands how the browser handles conflicting styles
 - [x] Understands how the DOM is laid out and is structured
@@ -16,6 +17,7 @@ Demonstrated proficiency here: https://github.com/TechtonicGroup/TG-Wordpress/pu
 ### 2. MIDDLEWARE DEVELOPMENT
 ##### JavaScript
 Demonstrated proficiency here: https://github.com/TechtonicGroup/HomeVestors_Kentico/pull/643
+https://codepen.io/dnicolaev/pen/eMmvXb
 - [x] Solid understanding of HTML & CSS
 - [x] Understanding of browser runtime & where to inject scripts
 - [x] Understanding of dynamic typing and how it makes using the language quick and easy
